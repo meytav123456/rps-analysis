@@ -6,8 +6,8 @@ Analysis of behavioral heterogeneity in the WXZ2014 Rock-Paper-Scissors dataset 
 Meytav Shiller, Liam Yaakobi
 
 ## Repository Contents
-- `analysis.ipynb` — full analysis notebook (data loading, preprocessing, all models, all figures)
-- `paper.typ` — Typst source of the paper
+- `Rock-Paper-Scisors.ipynb` — full analysis notebook (data loading, preprocessing, all models, all figures)
+- `Even-Yaru.typ` — Typst source of the paper
 - `references.bib` — bibliography
 - `data/` — WXZ2014 dataset
 
@@ -22,7 +22,7 @@ Meytav Shiller, Liam Yaakobi
    git clone https://github.com/meytav123456/rps-analysis.git
    ```
 
-2. Open `analysis.ipynb` in Google Colab or Jupyter.
+2. Open `Rock-Paper-Scisors.ipynb` in Google Colab or Jupyter.
 
 3. Install dependencies (first cell of the notebook):
    ```
